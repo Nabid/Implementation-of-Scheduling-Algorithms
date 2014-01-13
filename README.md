@@ -6,10 +6,10 @@ Implementation of Scheduling algorithms using gantt chart including average time
 
 Course: Operating System
 Topic : Implementation of Scheduling algorithms.
-	1. First Come First Serve
-	2. Shortest Job First
-	3. Priority Scheduling
-	4. Round Robin
+1. First Come First Serve
+2. Shortest Job First
+3. Priority Scheduling
+4. Round Robin
 Comment: Gantt Chart, Average time
 
 // Bug :
