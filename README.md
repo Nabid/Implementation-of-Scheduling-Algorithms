@@ -13,4 +13,4 @@ Topic : Implementation of Scheduling algorithms.
 Comment: Gantt Chart, Average time
 
 // Bug :
-	Average time calculation for 2, 3 and 4 has bug. I have not updated yet.
+	Average time calculation for topic 2, 3 and 4 has bug. It has not been updated.
